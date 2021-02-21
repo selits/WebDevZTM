@@ -1,0 +1,9 @@
+HTML Info: https://www.w3schools.com/html/
+
+https://www.w3schools.com/tags/ref_html_browsersupport.asp
+
+https://www.w3schools.com/tags/tag_meta.asp
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+
+https://www.quora.com/What-is-UTF8
