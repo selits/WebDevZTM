@@ -7,3 +7,6 @@ https://getbootstrap.com/docs/5.0/getting-started/download/
 https://getbootstrap.com/docs/5.0/examples/
 
 https://expo.getbootstrap.com/
+
+https://animate.style/
+
