@@ -1,3 +1,8 @@
+https://caniuse.com/
+
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+https://www.w3schools.com/tags/ref_html_browsersupport.asp
+
 HTML Info: https://www.w3schools.com/html/
 
 CSS Info: 
@@ -9,6 +14,8 @@ CSS Info:
     https://specificity.keegan.st/
     https://www.w3schools.com/cssref/css_selectors.asp
     https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    https://flexboxfroggy.com/
 
 CSS Cheat Sheet
 Cascading Style Sheets at the most basic level it indicates that the order of CSS rules matter. 
