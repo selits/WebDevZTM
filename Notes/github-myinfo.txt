@@ -1,4 +1,6 @@
-https://selits.github.io/WebDevZTM/bootstrap/startup/index.html
+Repo: https://github.com/selits/WebDevZTM
+
+Website: https://selits.github.io/WebDevZTM/exercise3-bootstrap/startup/index.html
 
 
 git add .
