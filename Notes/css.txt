@@ -17,6 +17,8 @@ CSS Info:
 
     https://css-tricks.com/perfect-full-page-background-image/
 
+    https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
 
 CSS Cheat Sheet
 Cascading Style Sheets at the most basic level it indicates that the order of CSS rules matter. 

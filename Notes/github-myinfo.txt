@@ -1,2 +1,6 @@
 https://selits.github.io/WebDevZTM/bootstrap/startup/index.html
 
+
+git add .
+git commit
+git push origin
