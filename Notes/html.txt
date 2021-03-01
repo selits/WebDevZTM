@@ -7,3 +7,11 @@ https://www.w3schools.com/tags/tag_meta.asp
 https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
 
 https://www.quora.com/What-is-UTF8
+
+HTML DOM:
+https://www.w3schools.com/js/js_htmldom.asp
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color
+
+https://www.w3schools.com/cssref/func_linear-gradient.asp
