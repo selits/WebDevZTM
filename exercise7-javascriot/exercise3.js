@@ -82,7 +82,7 @@ function whereAmI(username, location) {
 }
 // ***************************
 
-const whereAmI(username, location) => {
+const whereAmI = (username, location) => {
     if (username && location) {
         return "I am not lost";
     } else {
